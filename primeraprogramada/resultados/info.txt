@@ -1,0 +1,1 @@
+En esta carpeta se guardarán y crearán los archivos CSV con los resultados."
