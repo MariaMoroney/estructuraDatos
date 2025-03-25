@@ -1,0 +1,117 @@
+Desde Ciudad de México
+Paso a paso con retrocesos:
+Ciudad de México
+↓ (170)
+Querétaro - primera ciudad que visito desde CDMX
+↓ (150)
+San Luis Potosí - sigo el camino más corto desde Querétaro
+↓ (170)
+Aguascalientes - continúo explorando hacia el norte
+↓ (330)
+Torreón - llego a un punto sin más caminos nuevos
+← (regresa a Aguascalientes) - retrocedo para buscar otros caminos
+← (regresa a San Luis Potosí) - sigo retrocediendo
+↓ (280)
+Guadalajara - exploro otra ruta desde SLP
+↓ (333)
+Puerto Vallarta - llegué a la costa oeste, no hay más caminos
+← (regresa a Guadalajara) - retrocedo para seguir explorando
+← (regresa a San Luis Potosí) - sigo retrocediendo
+← (regresa a Querétaro) - retrocedo para buscar nuevos caminos
+Monterrey (desde CDMX por → 363) - pruebo otra ruta directa desde CDMX
+↓ (420)
+Torreón (ya visitado) - ya había pasado por aquí antes
+← (regresa a Monterrey) - retrocedo para buscar alternativas
+← (regresa a Ciudad de México) - vuelvo al inicio para intentar otras rutas
+↓ (306)
+Puebla - exploro hacia el este/sur
+↓ (412)
+Veracruz - llego a la costa este
+↓ (270)
+Oaxaca - llegué al sureste, no hay más caminos
+← (regresa a Veracruz) - retrocedo hacia el norte
+← (regresa a Puebla) - sigo retrocediendo
+← (regresa a Ciudad de México) - vuelvo al punto inicial
+↓ (380)
+Guadalajara (ya visitado) - ya exploré esta ciudad antes
+Resultado final:
+Ciudad de México → Querétaro → San Luis Potosí → Aguascalientes → Torreón → Guadalajara → Puerto Vallarta → Monterrey → Puebla → Veracruz → Oaxaca
+
+Desde Monterrey
+Paso a paso con retrocesos:
+Monterrey
+↓ (306)
+San Luis Potosí - primera ruta desde Monterrey
+↓ (170)
+Aguascalientes - sigo explorando hacia el oeste
+↓ (330)
+Torreón - llegué a un extremo, no hay nuevas conexiones
+← (regresa a Aguascalientes) - retrocedo para buscar alternativas
+← (regresa a San Luis Potosí) - retrocedo más para encontrar otros caminos
+↓ (150)
+Querétaro - voy hacia el sur
+↓ (170)
+Ciudad de México - continúo hacia el centro del país
+↓ (306)
+Puebla - sigo hacia el este
+↓ (412)
+Veracruz - llego a la costa este
+↓ (270)
+Oaxaca - llego al sureste, no hay más caminos nuevos
+← (regresa a Veracruz) - comienzo a retroceder
+← (regresa a Puebla) - sigo retrocediendo
+← (regresa a Ciudad de México) - vuelvo al centro
+↓ (380)
+Guadalajara - exploro hacia el oeste
+↓ (333)
+Puerto Vallarta - llego a la costa oeste, sin más conexiones
+← (regresa a Guadalajara) - retrocedo para buscar más caminos
+← (regresa a Ciudad de México) - sigo retrocediendo
+← (regresa a Querétaro) - vuelvo hacia el norte
+← (regresa a San Luis Potosí) - retrocedo a un punto clave
+← (regresa a Monterrey) - regreso al punto inicial
+↓ (420)
+Torreón (ya visitado) - confirmo que ya pasé por aquí
+Resultado final:
+Monterrey → San Luis Potosí → Aguascalientes → Torreón → Querétaro → Ciudad de México → Puebla → Veracruz → Oaxaca → Guadalajara → Puerto Vallarta
+
+Desde Guadalajara
+Paso a paso con retrocesos:
+Guadalajara
+↓ (280)
+San Luis Potosí - primera ruta desde Guadalajara
+↓ (170)
+Aguascalientes - explorando hacia el norte
+↓ (330)
+Torreón - llego al extremo norte sin más conexiones nuevas
+← (regresa a Aguascalientes) - retrocedo para explorar otras rutas
+← (regresa a San Luis Potosí) - sigo retrocediendo
+↓ (150)
+Querétaro - voy hacia el sureste
+↓ (170)
+Ciudad de México - continúo al centro del país
+↓ (306)
+Puebla - sigo hacia el este
+↓ (412)
+Veracruz - llego a la costa este
+↓ (270)
+Oaxaca - llego al sureste, fin de camino
+← (regresa a Veracruz) - empiezo a retroceder
+← (regresa a Puebla) - sigo volviendo
+← (regresa a Ciudad de México) - retorno al centro
+↓ (363)
+Monterrey - exploro hacia el noreste
+↓ (420)
+Torreón (ya visitado) - confirmo que ya exploré este camino
+← (regresa a Monterrey) - retrocedo para buscar alternativas
+← (regresa a Ciudad de México) - vuelvo al centro
+← (regresa a Querétaro) - continúo retrocediendo
+← (regresa a San Luis Potosí) - sigo hacia el origen
+← (regresa a Guadalajara) - regreso al punto inicial
+↓ (260)
+Aguascalientes (ya visitado) - confirmo que ya recorrí esta ruta
+← (regresa a Guadalajara) - retrocedo nuevamente
+↓ (333)
+Puerto Vallarta - última ruta disponible sin explorar
+Resultado final:
+Guadalajara → San Luis Potosí → Aguascalientes → Torreón → Querétaro → Ciudad de México → Puebla → Veracruz → Oaxaca → Monterrey → Puerto Vallarta

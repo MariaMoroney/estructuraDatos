@@ -1,0 +1,47 @@
+Desde Ciudad de México
+Paso a paso (BFS con menor valor):
+Ciudad de México
+→ Querétaro (170) - es la ciudad más cercana a CDMX
+→ Puebla (306) - segunda ciudad más cercana a CDMX
+→ Guadalajara (380) - tercera ciudad más cercana a CDMX
+→ Monterrey (363) - cuarta ciudad conectada a CDMX
+→ San Luis Potosí (150) - conectada a Querétaro por la menor distancia
+→ Veracruz (412) - siguiendo desde Puebla
+→ Oaxaca (280) - siguiendo desde Puebla también
+→ Aguascalientes (170) - desde San Luis Potosí
+→ Puerto Vallarta (333) - desde Guadalajara
+→ Torreón (330) - última ciudad por visitar desde Aguascalientes
+Resultado final:
+Ciudad de México → Querétaro → Puebla → Guadalajara → Monterrey → San Luis Potosí → Veracruz → Oaxaca → Aguascalientes → Puerto Vallarta → Torreón
+
+Desde Veracruz
+Paso a paso (BFS con menor valor):
+Veracruz
+→ Oaxaca (270) - es la única ciudad conectada directamente a Veracruz
+→ Puebla (412) - conectada a Veracruz
+→ Ciudad de México (306) - continuando desde Puebla
+→ Querétaro (170) - siguiendo desde CDMX
+→ Guadalajara (380) - desde CDMX también
+→ Monterrey (363) - otra conexión desde CDMX
+→ San Luis Potosí (150) - desde Querétaro
+→ Aguascalientes (170) - desde SLP
+→ Puerto Vallarta (333) - desde Guadalajara
+→ Torreón (330) - última ciudad desde Aguascalientes
+Resultado final:
+Veracruz → Oaxaca → Puebla → Ciudad de México → Querétaro → Guadalajara → Monterrey → San Luis Potosí → Aguascalientes → Puerto Vallarta → Torreón
+
+Desde Guadalajara
+Paso a paso (BFS con menor valor):
+Guadalajara
+→ Querétaro (221) - la conexión más corta desde Guadalajara
+→ San Luis Potosí (280) - segunda conexión más corta
+→ Aguascalientes (260) - tercera conexión más corta
+→ Puerto Vallarta (333) - última conexión directa desde Guadalajara
+→ Ciudad de México (380) - desde Querétaro
+→ Monterrey (306) - desde SLP
+→ Torreón (330) - desde Aguascalientes
+→ Puebla (306) - desde CDMX
+→ Veracruz (412) - desde Puebla
+→ Oaxaca (270) - última ciudad desde Veracruz
+Resultado final:
+Guadalajara → Querétaro → San Luis Potosí → Aguascalientes → Puerto Vallarta → Ciudad de México → Monterrey → Torreón → Puebla → Veracruz → Oaxaca

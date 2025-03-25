@@ -1,0 +1,15 @@
+CDMX  Querétaro  Guadalajara  Puebla  Monterrey  SanLuisPotosí  PuertoVallarta  Aguascalientes  Veracruz  Oaxaca  Torreón  SanJose  SanFrancisco  Tracy
+CDMX              0        170         380     306       363             0               0               0         0        0        0      101            0     132
+Querétaro       170          0         221       0       450           150               0               0         0        0        0        0            0       0
+Guadalajara     380        221           0       0         0           280             333             260         0        0        0      270          880       0
+Puebla          306          0           0       0         0             0               0               0       412      280        0        0            0       0
+Monterrey       363        450           0       0         0           306               0               0         0        0      420        0            0       0
+SanLuisPotosí     0        150         280       0       306             0               0             170         0        0      480        0            0     150
+PuertoVallarta    0          0         333       0         0             0               0               0         0        0        0      680            0       0
+Aguascalientes    0          0         260       0         0           170               0               0         0        0      330        0            0       0
+Veracruz          0          0           0     412         0             0               0               0         0      270        0        0            0       0
+Oaxaca            0          0           0     280         0             0               0               0       270        0        0        0            0       0
+Torreón           0          0           0       0       420           480               0             330         0        0        0        0            0     190
+SanJose         101          0         270       0         0             0             680               0         0        0        0        0          880     260
+SanFrancisco      0          0         880       0         0             0               0               0         0        0        0      880            0       0
+Tracy           132          0           0       0         0           150               0               0         0        0      190      260            0       0
